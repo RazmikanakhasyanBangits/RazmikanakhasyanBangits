@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RazmikanakhasyanBangits
+- 👋 Hi, I’m @Razmik Anakhasyan
 - 👀 I’m interested in .Net,C#,C++,Git
 - 🌱 I’m currently learning .Net Core,Microservices,C# ,Algorithms
 
